@@ -1,0 +1,60 @@
+.header1 {
+    background-color: navy;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+}
+
+.section {
+    background-color: rgb(236, 235, 235);
+    height: auto;
+    width: 800px;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.section div{
+    margin: 20px;
+}
+.section input {
+    height: 30px;
+    width: 300px;
+    border-radius: 4px;
+    margin: 0px;
+}
+.section textarea{
+    height: auto;
+    min-height: 100px;
+    border: 2px solid black;
+    width: 650px;
+    border-radius: 5px;
+}
+span h1{
+    margin: 0px;
+}
+.section submit{
+    margin: 20px;
+    border: 2px solid black;
+    height: 40px;
+    width: 200px;
+    border-radius: 3px;
+    background-color: rgb(73, 71, 71);
+    /* color: white; */
+    font-family: serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+}
