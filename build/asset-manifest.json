@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a114e7d.css",
+    "main.js": "/static/js/main.690dc9c8.js",
+    "static/media/air_pollution.jpeg": "/static/media/air_pollution.a838f19584843772bee3.jpeg",
+    "static/media/desert.jpg": "/static/media/desert.6caf623e83a971bc8415.jpg",
+    "static/media/globalwarming.jpg": "/static/media/globalwarming.709d55898adcc121010c.jpg",
+    "static/media/deforest.jpg": "/static/media/deforest.c457aed0087cdc83a220.jpg",
+    "static/media/chemical.jpg": "/static/media/chemical.4fb77736aa2e829cd860.jpg",
+    "static/media/wate.jpeg": "/static/media/wate.fc47a6534c04b704cb7b.jpeg",
+    "static/media/ocean.jpg": "/static/media/ocean.7b674725e7e3de19f703.jpg",
+    "static/media/plastic.jpg": "/static/media/plastic.287432e4ab2dc72122b8.jpg",
+    "static/media/ozone.jpg": "/static/media/ozone.87e841f2d2ab75356471.jpg",
+    "static/media/water.jpg": "/static/media/water.30bf94eb1fc04231dbdb.jpg",
+    "static/media/user.png": "/static/media/user.89b7b4c732932e09ae8c.png",
+    "static/media/like.png": "/static/media/like.65e71c9cb415e8aa5a75.png",
+    "index.html": "/index.html",
+    "main.5a114e7d.css.map": "/static/css/main.5a114e7d.css.map",
+    "main.690dc9c8.js.map": "/static/js/main.690dc9c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a114e7d.css",
+    "static/js/main.690dc9c8.js"
+  ]
+}
